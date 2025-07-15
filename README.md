@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hey, I'm Carl Valme
 
-<!--
-**carlvalme/carlvalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught IT Support Specialist currently building my career from the ground up.
 
-Here are some ideas to get you started:
+✅ Built a home lab using Linux Mint and Windows Server  
+✅ Practiced real-world help desk tasks like:  
+- Password resets in Active Directory  
+- Network troubleshooting using `ipconfig`, `tracert`, and `nslookup`  
+- Linux file permissions and terminal commands  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Documented everything here: [My IT Blog](https://carlvalme.wordpress.com)  
+💻 Check out my lab repo: [it-home-lab](https://github.com/YOUR-USERNAME/it-home-lab)  
+🎯 Goal: Land my first official Help Desk role by [your target date]
+
+---
+
+> “You don’t need to be great to start, but you have to start to be great.”
+
