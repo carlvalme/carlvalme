@@ -10,7 +10,7 @@ I'm a self-taught IT Support Specialist currently building my career from the gr
 
 📘 Documented everything here: [My IT Blog](https://carlvalme.wordpress.com)  
 💻 Check out my lab repo: [it-home-lab](https://github.com/YOUR-USERNAME/it-home-lab)  
-🎯 Goal: Land my first official Help Desk role by [your target date]
+🎯 Goal: Land my first official Help Desk role by September 2025
 
 ---
 
